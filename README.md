@@ -3,24 +3,24 @@
 We are making a bubblesort program using functions and pointers. The idea was NOT to come out with the most efective sorting algorithm but implement to concepts of C and open our brains into newer nodes of thinking. With the given semi-start code the following was accomplished- reverse engineering the logic, i.e., using the broader idea sample to breakdown to self the details of each function, learning reusability and background breakdown in this procedural language(breaking the code into series of functions/methods and (here)arrays, etc) AND building with these blocks the clearer bigger picture. 
 
 Therefore, the expectations(*with regards to the precise project*) were:
-[x] Help you get into the CS mindset: experimenting and playing with code
-[x] Give you some experience with the C language
-[x] Practice using a compiler
-[x] learn about a basic sorting algorithm (we will come back to algorithms later)
-[x] Help you practice pointers; the most important idea in C
-[x] Explore the relationship between arrays and pointers
+- [x] Help you get into the CS mindset: experimenting and playing with code
+- [x] Give you some experience with the C language
+- [x] Practice using a compiler
+- [x] learn about a basic sorting algorithm (we will come back to algorithms later)
+- [x] Help you practice pointers; the most important idea in C
+- [x] Explore the relationship between arrays and pointers
 
 And hopefully they were achieved(?)!
 
 *<ins>Personal expectations achieved</ins>*
-[x] Attempting to code while having fun, but also opening more ways to think and visual the execution
-[x] Making something cool in a new language, where everything has to be self-built
-[x] Complete in time
-[x] Not being scared to make mistake
-[x] Being more open to ask help
-[x] MAke even more mistakes and remember the errors
-[x] To REMEMBER!! to git add, commit, push; lost my code 5 times due to related errors.
-[x] importance of function prototypes, syntax and value of trials and errors.
+- [x] Attempting to code while having fun, but also opening more ways to think and visual the execution
+- [x] Making something cool in a new language, where everything has to be self-built
+- [x] Complete in time
+- [x] Not being scared to make mistake
+- [x] Being more open to ask help
+- [x] MAke even more mistakes and remember the errors
+- [x] To REMEMBER!! to git add, commit, push; lost my code 5 times due to related errors.
+- [x] importance of function prototypes, syntax and value of trials and errors.
 
 <ins>Higher goals</ins>: Making this with user input, practice to memorise some vim key commands to reduce wastage of effort, mind and systems.
 
