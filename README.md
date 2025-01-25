@@ -1,5 +1,5 @@
 # CS121_project2 ~> Bubble sort using pointers and functions
-##Overview and Expectations
+## Overview and Expectations
 We are making a bubblesort program using functions and pointers. The idea was NOT to come out with the most efective sorting algorithm but implement to concepts of C and open our brains into newer nodes of thinking. With the given semi-start code the following was accomplished- reverse engineering the logic, i.e., using the broader idea sample to breakdown to self the details of each function, learning reusability and background breakdown in this procedural language(breaking the code into series of functions/methods and (here)arrays, etc) AND building with these blocks the clearer bigger picture. 
 
 Therefore, the expectations(*with regards to the precise project*) were:
@@ -24,7 +24,7 @@ And hopefully they were achieved(?)!
 
 <ins>Higher goals</ins>: Making this with user input, practice to memorise some vim key commands to reduce wastage of effort, mind and systems.
 
-##List of Functions and about them
+## List of Functions and about them
 - int main()
   primitive function to overview the enitre program and control flow of control and call other functions.
   Its return type is 0, to tell that it ran finr
@@ -37,7 +37,7 @@ And hopefully they were achieved(?)!
 
 ~> for the variables used, the main motive and idea behind to realise pass by value which expects a return type and pass by referece, which would not need a return type as it changes the memory itself. Also, the * pointer of variable and & as address of variable was learnt; which arrays dont need because they themselves are the pointers. 
 
-##Algorithm
+## Algorithm
 Beginning with #include to include the standard library for input and output with .h header extension
 
 Having our fixed variable, the sixe of our own array
@@ -57,6 +57,8 @@ test swapping using x,y and displaying
 
 and swapping using swap() and displaying output
 return 0 for confirm execution
+
+
 
 
 
